@@ -1,16 +1,37 @@
-# facebook
 
-A new Flutter project.
+# Flutter Facebook UI
 
-## Getting Started
+A Cross Platform Application for Android and Ios and Windows or Web
+Created in Flutter multipage Application This Application Fet6ch Data From Rest API
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## 🚀 About Me
+I'm a full stack developer...
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 🛠 Skills
+Dart,Flutter,Stateless Widget,Statefull Widget,CSS,Animations
+,Flutter Navigation ,REST API
+
+
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/MarcusNg/flutter_facebook_responsive_ui/master/screenshots/facebook-mobile.png)
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://apartyagi.in/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apar-tyagi)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/apartyagi)
+
+
+## Authors
+
+- [@apartyagi](https://www.github.com/apartyagi)
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
